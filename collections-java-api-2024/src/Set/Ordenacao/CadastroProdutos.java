@@ -5,7 +5,6 @@ import java.util.HashSet;
 import java.util.Set;
 import java.util.TreeSet;
 
-import Set.Ordenacao.Produto.ComparatorPorPreco;
 
 public class CadastroProdutos {
     private Set<Produto> produtoSet;
